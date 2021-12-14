@@ -1,0 +1,7 @@
+2021-12-14 15:00:41,678 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting BrightMindsApplication using Java 1.8.0_282 on DESKTOP-4O0GAJ2 with PID 15208 (C:\Users\Ace\Desktop\Assignment 2\BrightMinds\build\classes\java\main started by Ace in C:\Users\Ace\Desktop\Assignment 2\BrightMinds)
+2021-12-14 15:00:41,691 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-12-14 15:00:49,731 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started BrightMindsApplication in 8.963 seconds (JVM running for 9.905)
+2021-12-14 15:00:55,113 INFO com.project.BrightMinds.controller.EmployeeController [http-nio-9009-exec-2] Data Found in getEmployeesBasedOnEmploymentType
+2021-12-14 15:01:32,443 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting BrightMindsApplication using Java 1.8.0_282 on DESKTOP-4O0GAJ2 with PID 3564 (C:\Users\Ace\Desktop\Assignment 2\BrightMinds\build\classes\java\main started by Ace in C:\Users\Ace\Desktop\Assignment 2\BrightMinds)
+2021-12-14 15:01:32,458 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-12-14 15:01:42,107 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started BrightMindsApplication in 10.473 seconds (JVM running for 11.508)
